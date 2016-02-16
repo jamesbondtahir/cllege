@@ -1,3 +1,2 @@
 # cllege
 education purpose
-only
